@@ -5,6 +5,8 @@ const PostSchema = new mongoose.Schema({
   content: String,
   author: String,
   publicationDate: Date,
+}, {
+  timestamps: true
 });
 
 // static method
