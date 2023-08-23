@@ -1,6 +1,6 @@
 ## Overview
 
-This is a simple blog application that allows users to create, read, update, and delete blog posts. The application is built using Node.js and MongoDB, and it exposes a RESTful API for interacting with the database.
+This is a simple blog application that allows users to create, read, update, and delete blog posts. The application is built using Node.js and MongoDB, and it exposes a RESTful API for interacting with the database. this is the deployed url using gcp https://us-central1-interview-task-stackruit.cloudfunctions.net/first-function/
 
 ## API Endpoints
 
